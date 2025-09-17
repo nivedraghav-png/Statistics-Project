@@ -1,8 +1,6 @@
 # Statistics-Project
 A step-by-step statistics assignment analyzing customer behavior and churn using Python.
-# Customer Behavior Analysis — Statistics Project
-
-A step-by-step statistics assignment analyzing customer behavior and churn using Python.
+# Customer Behavior Analysis.
 
 ## What’s inside
 - `Statistics_Assignment_Step_by_Step.ipynb` — Q1–Q10 code + plots
